@@ -1,2 +1,4 @@
 title: Awesome Pizza
 baseurl: /awesome-pizza-website
+gems:
+  - jekyll-redirect-from
