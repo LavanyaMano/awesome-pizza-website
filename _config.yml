@@ -1,4 +1,4 @@
 title: Awesome Pizza
 baseurl: /awesome-pizza-website
-gems:
-  - jekyll-redirect-from
+redirect_from:
+  -http://localhost:4000/blog.html
